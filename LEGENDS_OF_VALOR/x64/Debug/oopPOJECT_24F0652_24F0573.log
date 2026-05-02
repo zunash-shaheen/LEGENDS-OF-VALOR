@@ -1,0 +1,114 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (oopPOJECT_24F0652_24F0573.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  enemy.cpp
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8): warning C4099: 'Places': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'enemy.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8):
+      see declaration of 'Places'
+  
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8): warning C4099: 'HlpObjects': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'enemy.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8):
+      see declaration of 'HlpObjects'
+  
+  gameManager.cpp
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8): warning C4099: 'Places': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'gameManager.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8):
+      see declaration of 'Places'
+  
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8): warning C4099: 'HlpObjects': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'gameManager.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8):
+      see declaration of 'HlpObjects'
+  
+  helpingObject.cpp
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8): warning C4099: 'Places': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'helpingObject.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8):
+      see declaration of 'Places'
+  
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8): warning C4099: 'HlpObjects': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'helpingObject.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8):
+      see declaration of 'HlpObjects'
+  
+  inventory.cpp
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8): warning C4099: 'Places': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'inventory.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8):
+      see declaration of 'Places'
+  
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8): warning C4099: 'HlpObjects': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'inventory.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8):
+      see declaration of 'HlpObjects'
+  
+  main.cpp
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8): warning C4099: 'Places': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'main.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8):
+      see declaration of 'Places'
+  
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8): warning C4099: 'HlpObjects': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'main.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8):
+      see declaration of 'HlpObjects'
+  
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\main.cpp(55,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  manageStats.cpp
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8): warning C4099: 'Places': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'manageStats.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8):
+      see declaration of 'Places'
+  
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8): warning C4099: 'HlpObjects': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'manageStats.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8):
+      see declaration of 'HlpObjects'
+  
+  places.cpp
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8): warning C4099: 'Places': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'places.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8):
+      see declaration of 'Places'
+  
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8): warning C4099: 'HlpObjects': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'places.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8):
+      see declaration of 'HlpObjects'
+  
+  players.cpp
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8): warning C4099: 'Places': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'players.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8):
+      see declaration of 'Places'
+  
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8): warning C4099: 'HlpObjects': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'players.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8):
+      see declaration of 'HlpObjects'
+  
+  shop&Teammates.cpp
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8): warning C4099: 'Places': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'shop&Teammates.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8):
+      see declaration of 'Places'
+  
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8): warning C4099: 'HlpObjects': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'shop&Teammates.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8):
+      see declaration of 'HlpObjects'
+  
+  subPlaces.cpp
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8): warning C4099: 'Places': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'subPlaces.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(20,8):
+      see declaration of 'Places'
+  
+C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8): warning C4099: 'HlpObjects': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'subPlaces.cpp')
+      C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\oopPOJECT_24F0652_24F0573\Classes.h(34,8):
+      see declaration of 'HlpObjects'
+  
+  Generating Code...
+  oopPOJECT_24F0652_24F0573.vcxproj -> C:\Users\hp\source\repos\oopPOJECT_24F0652_24F0573\x64\Debug\oopPOJECT_24F0538_24F0662.exe
